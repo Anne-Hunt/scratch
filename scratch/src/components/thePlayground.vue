@@ -4,7 +4,7 @@
 
 
 <template>
-<section class="row">
+<section class="row hikes">
     <section class="row sky bg-dark">
 
     </section>
@@ -12,7 +12,7 @@
 
     </section>
 </section>
-<section class="row bg-dark">
+<section class="row bg-dark bones">
     <div class="col-3"></div>
     <div class="col-3"></div>
     <div class="col-3"></div>
@@ -26,19 +26,25 @@
     <div class="col-3"></div>
     <div class="col-3"></div>
 </section>
-<section class="row">
-    <div class="col-1"></div>
-    <div class="col-1"></div>
-    <div class="col-1"></div>
-    <div class="col-1"></div>
-    <div class="col-1"></div>
-    <div class="col-1"></div>
-    <div class="col-1"></div>
-    <div class="col-1"></div>
-    <div class="col-1"></div>
-    <div class="col-1"></div>
-    <div class="col-1"></div>
-    <div class="col-1"></div>
+<section class="row jars">
+    <div class="col-1 jar"></div>
+    <div class="col-1 jar"></div>
+    <div class="col-1 jar"></div>
+    <div class="col-1 jar"></div>
+    <div class="col-1 jar"></div>
+    <div class="col-1 jar"></div>
+    <div class="col-1 jar"></div>
+    <div class="col-1 jar"></div>
+    <div class="col-1 jar"></div>
+    <div class="col-1 jar"></div>
+    <div class="col-1 jar"></div>
+    <div class="col-1 jar"></div>
+</section>
+<section class="row shelf">
+    <div class="col-3"></div>
+    <div class="col-3"></div>
+    <div class="col-3"></div>
+    <div class="col-3"></div>
 </section>
 </template>
 
