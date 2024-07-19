@@ -20,11 +20,17 @@
             <span class="nav-link">About</span>
           </routerlink>
         </li>
-        <!-- <li class="nav-item">
-          <routerlink :to="{name: 'about'}">
-            <span class="nav-link">About</span>
-          </routerlink>
-        </li> -->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Your View
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Walk</a></li>
+            <li><a class="dropdown-item" href="#">Jars</a></li>
+            <li><a class="dropdown-item" href="#">Shelves</a></li>
+            <li><a class="dropdown-item" href="#">Bones</a></li>
+          </ul>
+        </li>
       </ul>
       <span class="navbar-text">
         Scratch it.
